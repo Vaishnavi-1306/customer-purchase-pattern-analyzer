@@ -36,3 +36,21 @@ Analyze customer purchase behavior to identify buying patterns, customer segment
 - Improve customer retention campaigns.
 - Promote high-performing product categories.
 - Focus marketing efforts on underperforming regions.
+## Repository Structure
+
+- Data → Raw and cleaned datasets
+- Dashboard → Tableau/Power BI dashboard files
+- Reports → Project report PDF
+- SQL → Analysis queries
+- Presentation → Project presentation
+- Screenshots → Dashboard images
+- ## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation
+- KPI Development
+- Dashboard Design
+- Business Intelligence
+- SQL Analytics
+- Data Visualization
