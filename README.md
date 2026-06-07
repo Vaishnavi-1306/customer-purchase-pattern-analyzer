@@ -2,7 +2,7 @@
 
 ## Dashboard Overview
 
-![Dashboard](Screenshots/dashboard_overview.png)
+![Dashboard](Screenshots/dashboard_overview.png.png)
 
 ## Project Objective
 
